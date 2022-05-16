@@ -2,7 +2,7 @@
 // Project: https://github.com/HDF-NI/hdf5.node#readme
 // Definitions by: NINI1988 <https://github.com/NINI1988>
 
-import { Access, H5OType, HLType, H5Type, H5TOrder, H5SType } from "breath-hdf5/lib/globals";
+import { Access, H5OType, HLType, H5Type, H5TOrder, H5SType } from "./lib/globals";
 
 /// <reference types="node" />
 
